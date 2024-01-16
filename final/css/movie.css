@@ -1,0 +1,18 @@
+#button{
+    text-align: center;
+    margin-left: 20px;
+}
+input[type="submit"] {
+    background-color: #111;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+#center{
+    text-align: center;
+}
+.table.is-bordered{
+    margin: auto;
+}
