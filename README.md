@@ -2,4 +2,4 @@
 クラス     : SD2G<br><br>
 氏名       : 山登　渓愁<br><br>
 システム名 : 映画情報管理システム<br><br>
-URL        : 
+URL        : https://aso2201395.pinoko.jp/php2/final/top.php
